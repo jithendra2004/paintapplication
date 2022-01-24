@@ -150,7 +150,7 @@ function myClickEvent(e){
 
 ## OUTPUT:
 
-![output](./paint output.png)
+![output](https://github.com/jithendra2004/paintapplication/blob/main/paint%20output.png?raw=true)
 
 
 
